@@ -1,0 +1,13 @@
+﻿# Derleme dosyalari
+build/
+*.exe
+*.o
+*.obj
+*.dll
+
+# IDE ve Sistem dosyalari
+.vscode/
+.idea/
+.DS_Store
+CMakeCache.txt
+CMakeFiles/
